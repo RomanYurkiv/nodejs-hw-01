@@ -14,7 +14,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Kateryna Massa <catherineorlova27@gmail.com>",
+  "author": "Roman Yurkiv <yurkiv.r.official@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
